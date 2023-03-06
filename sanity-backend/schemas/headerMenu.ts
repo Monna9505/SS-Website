@@ -1,5 +1,5 @@
 export default {
-    name: 'Header-Menu',
+    name: 'headerMenu',
     type: 'document',
     title: 'Header Menu',
     fields: [{
